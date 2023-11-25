@@ -1,6 +1,7 @@
-import { poppinsBold } from "@/app/layout";
 import Image from "next/image";
 import ClickBudget from "./Buttons/ClickBudget";
+import { Poppins } from "next/font/google";
+const poppinsBold = Poppins({ subsets: ['latin'], weight: '500' })
 
 const HomeTop = () => {
     return (
