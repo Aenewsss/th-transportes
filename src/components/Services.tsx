@@ -9,7 +9,7 @@ const Services = () => {
                     <div className="col-md-5">
                         <h2 className="section-heading-left display-2 text-start w-100 mt-0 ">Serviços que <br />oferecemos</h2>
                     </div>
-                    <div className="col-md-7 d-flex gap-4 flex-wrap">
+                    <div className="col-md-7 d-flex gap-4 flex-wrap mt-md-0 mt-4">
                         <div className="d-flex gap-5 flex-wrap">
                             <div className="d-flex gap-2 service-card align-items-center">
                                 <h4 className="fw-light text-center">Montagem e <br />desmontagem <br />de móveis</h4>

@@ -13,7 +13,7 @@ export default function Home() {
       <Services />
       <Differentials />
       <div className="bg-black d-flex justify-content-center gap-3 align-items-center py-5">
-        <p className="display-4 text-location my-4">Atendemos em toda região DF e GO</p>
+        <p className="display-4 text-location my-4 text-center">Atendemos em toda região DF e GO</p>
       </div>
       <Feedbacks />
       <Footer />
