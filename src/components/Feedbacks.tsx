@@ -11,28 +11,28 @@ const Feedbacks = () => {
                         <div className="carousel-item active">
                             <div className="d-flex">
                                 <div className="d-flex flex-column p-3 m-5 feedback-card rounded">
-                                    <p className="fst-italic fs-5 text-black">Conheci a iLuminus há 5 anos, e na época, fomos apresentados por um amigo, fizemos cotações com outras empresas mas nenhuma conseguiu nos passar a confiança que tívemos com eles. Concerteza foi nosso melhor investimento!!!</p>
-                                    <h4 className="text-uppercase text-black text-start">- Cláudio Ribeiro</h4>
+                                    <p className="fst-italic fs-5 text-black">Serviço ótimo! Eles foram pontuais, a equipe foi super prestativa e o preço foi justo. Recomendo a todos!</p>
+                                    <h4 className="text-uppercase text-black text-start">- Cristopher Martinelli</h4>
                                 </div>
                                 <div className="d-flex flex-column p-3 m-5 feedback-card rounded">
-                                    <p className="fst-italic fs-5 text-black">Sou cliente da iLuminus desde 16/08/2020, quando contratei o projeto para minha padaria. Sempre fui atendido com muita rapidez e comprometimento com o resultado. Hoje, quase três anos depois, posso afirmar que essa parceria foi a melhor coisa que fiz, por isso recomendo, com muita satisfação, o trabalho dessas pessoas maravilhosas.</p>
-                                    <h4 className="text-uppercase text-black text-start">- Rui Bezerra</h4>
+                                    <p className="fst-italic fs-5 text-black">A equipe foi super profissional, cuidadosa com os meus móveis e fez tudo com muita rapidez. Recomendo!</p>
+                                    <h4 className="text-uppercase text-black text-start">- Aenã Eloi</h4>
                                 </div>
                                 <div className="d-flex flex-column p-3 m-5 feedback-card rounded">
-                                    <p className="fst-italic fs-5 text-black">Parabenizo toda a Equipe da iLuminus, por serem sempre extremamente atenciosos e profissionais, não é surpresa que dessa forma nos entregaram realmente o que foi prometido, ficamos tranquilos ao fechar o contrato com uma empresa tão atenciosa. Parabéns pelo Pós Venda. Indico de olhos fechados!</p>
-                                    <h4 className="text-uppercase text-black text-start">- Bruno Alves</h4>
+                                    <p className="fst-italic fs-5 text-black">Foram super pontuais e atenciosos na montagem dos móveis. Ótimo serviço!</p>
+                                    <h4 className="text-uppercase text-black text-start">- Samia Lobo</h4>
                                 </div>
                             </div>
                         </div>
                         <div className="carousel-item ">
                             <div className="d-flex">
                                 <div className="d-flex flex-column p-3 m-5 feedback-card rounded">
-                                    <p className="fst-italic fs-5 text-black">Mesmo pelo prazo curto que tínhamos devido a construção e a complexidade, a iLuminus conseguiu compreender tudo com muita agilidade e profissionalismo. Sem dúvida indicaria os seus serviços.</p>
-                                    <h4 className="text-uppercase text-black text-start">- Dhiogo Souza</h4>
+                                    <p className="fst-italic fs-5 text-black">Contratei a TH Transportes para realizar o frete de alguns produtos da minha loja, e fiquei muito satisfeita.Com certeza, contarei com eles novamente</p>
+                                    <h4 className="text-uppercase text-black text-start">- Carol Valeriano</h4>
                                 </div>
                                 <div className="d-flex flex-column p-3 m-5 feedback-card rounded">
-                                    <p className="fst-italic fs-5 text-black">Empresa comprometida com o resultado e desempenho do sistema, comunicação clara, objetiva e certeira!!</p>
-                                    <h4 className="text-uppercase text-black text-start">- Daniel Lemos</h4>
+                                    <p className="fst-italic fs-5 text-black">Além de realizarem uma mudança sem nenhum transtorno, a equipe ainda cuidou da montagem e desmontagem dos móveis. Recomendo muito!</p>
+                                    <h4 className="text-uppercase text-black text-start">- Gabriel Marques</h4>
                                 </div>
                             </div>
                         </div>
@@ -50,32 +50,32 @@ const Feedbacks = () => {
                     <div className="carousel-inner" role="listbox">
                         <div className="carousel-item active">
                             <div className="d-flex flex-column p-3 m-5 feedback-card rounded">
-                                <p className="fst-italic fs-5 text-black">Conheci a iLuminus há 5 anos, e na época, fomos apresentados por um amigo, fizemos cotações com outras empresas mas nenhuma conseguiu nos passar a confiança que tívemos com eles. Concerteza foi nosso melhor investimento!!!</p>
-                                <h4 className="text-uppercase text-black text-start">- Cláudio Ribeiro</h4>
+                                <p className="fst-italic fs-5 text-black">Serviço ótimo! Eles foram pontuais, a equipe foi super prestativa e o preço foi justo. Recomendo a todos!</p>
+                                <h4 className="text-uppercase text-black text-start">- Cristopher Martinelli</h4>
                             </div>
                         </div>
                         <div className="carousel-item">
                             <div className="d-flex flex-column p-3 m-5 feedback-card rounded">
-                                <p className="fst-italic fs-5 text-black">Sou cliente da iLuminus desde 16/08/2020, quando contratei o projeto para minha padaria. Sempre fui atendido com muita rapidez e comprometimento com o resultado. Hoje, quase três anos depois, posso afirmar que essa parceria foi a melhor coisa que fiz, por isso recomendo, com muita satisfação, o trabalho dessas pessoas maravilhosas.</p>
-                                <h4 className="text-uppercase text-black text-start">- Rui Bezerra</h4>
+                                <p className="fst-italic fs-5 text-black">A equipe foi super profissional, cuidadosa com os meus móveis e fez tudo com muita rapidez. Recomendo!</p>
+                                <h4 className="text-uppercase text-black text-start">- Aenã Eloi</h4>
                             </div>
                         </div>
                         <div className="carousel-item">
                             <div className="d-flex flex-column p-3 m-5 feedback-card rounded">
-                                <p className="fst-italic fs-5 text-black">Parabenizo toda a Equipe da iLuminus, por serem sempre extremamente atenciosos e profissionais, não é surpresa que dessa forma nos entregaram realmente o que foi prometido, ficamos tranquilos ao fechar o contrato com uma empresa tão atenciosa. Parabéns pelo Pós Venda. Indico de olhos fechados!</p>
-                                <h4 className="text-uppercase text-black text-start">- Bruno Alves</h4>
+                                <p className="fst-italic fs-5 text-black">Foram super pontuais e atenciosos na montagem dos móveis. Ótimo serviço!</p>
+                                <h4 className="text-uppercase text-black text-start">- Samia Lobo</h4>
                             </div>
                         </div>
                         <div className="carousel-item">
                             <div className="d-flex flex-column p-3 m-5 feedback-card rounded">
-                                <p className="fst-italic fs-5 text-black">Mesmo pelo prazo curto que tínhamos devido a construção e a complexidade, a iLuminus conseguiu compreender tudo com muita agilidade e profissionalismo. Sem dúvida indicaria os seus serviços.</p>
-                                <h4 className="text-uppercase text-black text-start">- Dhiogo Souza</h4>
+                                <p className="fst-italic fs-5 text-black">Contratei a TH Transportes para realizar o frete de alguns produtos da minha loja, e fiquei muito satisfeita.Com certeza, contarei com eles novamente</p>
+                                <h4 className="text-uppercase text-black text-start">- Carol Valeriano</h4>
                             </div>
                         </div>
                         <div className="carousel-item">
                             <div className="d-flex flex-column p-3 m-5 feedback-card rounded">
-                                <p className="fst-italic fs-5 text-black">Empresa comprometida com o resultado e desempenho do sistema, comunicação clara, objetiva e certeira!!</p>
-                                <h4 className="text-uppercase text-black text-start">- Daniel Lemos</h4>
+                                <p className="fst-italic fs-5 text-black">Além de realizarem uma mudança sem nenhum transtorno, a equipe ainda cuidou da montagem e desmontagem dos móveis. Recomendo muito!</p>
+                                <h4 className="text-uppercase text-black text-start">- Gabriel Marques</h4>
                             </div>
                         </div>
                     </div>
