@@ -29,7 +29,7 @@ const Footer = () => {
                                 </Link> */}
                                 <Link target="_blank" href={environments.whatsAppLink} className="d-flex gap-2 fs-10 text-white mb-0">
                                     <Image loading="lazy" width={20} height={20} src="/icons/whatsapp.svg" alt="whatsapp ícone" />
-                                    <span className="text-black">(61) 4042-7830</span>
+                                    <span className="text-black">(61) 9 9248-5945</span>
                                 </Link>
                             </div>
                         </div>
